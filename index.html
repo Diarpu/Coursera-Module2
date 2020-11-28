@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/css.css">
+    <title>Coursera-Modulo2</title>
+</head>
+<body>
+    <h1>Responsive</h1>
+
+    
+    <div class="row">
+        <div class="cont col-lg-1 col-md-4">
+            <div class="card">
+                <div class="tite-card">
+                    <h3 class="title1">Title 1</h3>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente saepe cupiditate eos beatae velit aliquam, est nemo labore incidunt necessitatibus earum voluptas quod ratione explicabo adipisci placeat fuga magnam recusandae.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="cont col-lg-2 col-md-5">
+            <div class="card">
+                <div class="tite-card">
+                    <h3 class="title2">Title 2</h3>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente saepe cupiditate eos beatae velit aliquam, est nemo labore incidunt necessitatibus earum voluptas quod ratione explicabo adipisci placeat fuga magnam recusandae.</p>
+                </div>
+            </div>
+
+        </div>
+        <div class="cont col-lg-3 col-md-6">
+            <div class="card">
+                <div class="tite-card">
+                    <h3 class="title3">Title 3</h3>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente saepe cupiditate eos beatae velit aliquam, est nemo labore incidunt necessitatibus earum voluptas quod ratione explicabo adipisci placeat fuga magnam recusandae.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
